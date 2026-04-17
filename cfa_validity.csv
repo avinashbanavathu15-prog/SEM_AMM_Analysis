@@ -1,0 +1,6 @@
+Construct,Cronbach_Alpha,CR,AVE,Loadings
+TQM,0.781,0.873,0.696,"[np.float64(0.845), np.float64(0.838), np.float64(0.819)]"
+LEAN,0.851,0.91,0.771,"[np.float64(0.878), np.float64(0.879), np.float64(0.879)]"
+ENV,0.766,0.865,0.682,"[np.float64(0.812), np.float64(0.832), np.float64(0.833)]"
+SOC,0.74,0.852,0.658,"[np.float64(0.795), np.float64(0.828), np.float64(0.81)]"
+ECO,0.747,0.857,0.667,"[np.float64(0.821), np.float64(0.805), np.float64(0.824)]"
